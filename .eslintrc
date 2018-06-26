@@ -1,0 +1,16 @@
+{
+    "rules": {
+      "strict": 0,
+      "space-before-function-paren": 0,
+      "max-len": [2, 120, {"ignoreComments": true}],
+      "comma-dangle": ["error", {
+        "arrays": "never",
+        "objects": "never",
+        "imports": "never",
+        "exports": "never",
+        "functions": "ignore"
+      }]
+    },
+    "parser": "babel-eslint"
+  }
+  
