@@ -9,9 +9,9 @@ JavaScript utility using ES functions without need of 3rd party library
 
 **[Array](#array)**
 
-1. [compact](#_compact)
-1. [concat](#_concat)
-1. [first](#_first)
+1. [compact](#compact)
+1. [concat](#concat)
+1. [first](#first)
 
 ## Array
 
